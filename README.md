@@ -78,6 +78,6 @@ Cualquier navegador moderno (Chrome, Firefox, Edge, etcétera)
 2. crea la base de datos (refugio.sql)
  (Nota: Asegura de configurar la conexión en los archivos con tus propias credenciales para tu propia base de datos)
 
-3. Accede al proyecto desde tu navegador: http://localhost/Refugio
+3. Accede al proyecto desde tu navegador: http://localhost/Refugio_ultimo
 
 
